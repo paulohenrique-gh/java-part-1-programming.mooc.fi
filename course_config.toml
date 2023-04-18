@@ -142,3 +142,7 @@ checksum = '2624eaf5db3a7cf6b826e324df71967e'
 [exercises."part01-Part01_37.GiftTax"]
 id = 83149
 checksum = 'f2d3ce4e84a51ed69d7e991b2deb376c'
+
+[exercises."part02-Part02_01.Squared"]
+id = 83150
+checksum = '09a6680d3725d37e6a984743aabd46c7'
