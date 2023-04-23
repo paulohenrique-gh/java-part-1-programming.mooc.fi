@@ -346,3 +346,23 @@ checksum = 'd32f9436bf37776f86ac390d2a3270b2'
 [exercises."part03-Part03_17.RemoveLast"]
 id = 83200
 checksum = '84306d83f48976fba8fa4d0c20c09f2e'
+
+[exercises."part03-Part03_18.Swap"]
+id = 83201
+checksum = '6eec176d6e61541fa7e258a90f4c0296'
+
+[exercises."part03-Part03_19.IndexWasNotFound"]
+id = 83202
+checksum = 'd68543f59cd71f4e50d006bd97d7a6f7'
+
+[exercises."part03-Part03_20.SumOfArray"]
+id = 83203
+checksum = 'a2316afccec285297fdedf2a829f9be4'
+
+[exercises."part03-Part03_21.PrintNeatly"]
+id = 83204
+checksum = '33cdcaec1abf86c8e55d9269a26b6f69'
+
+[exercises."part03-Part03_22.PrintInStars"]
+id = 83205
+checksum = '1e00dd52efbc6448b99a7bbaa4634075'
