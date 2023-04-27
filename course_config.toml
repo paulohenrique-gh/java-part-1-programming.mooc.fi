@@ -466,3 +466,19 @@ checksum = '6be41271d4a8c11702a53dfcf06482d5'
 [exercises."part04-Part04_31.SportStatistics"]
 id = 83246
 checksum = 'e159517750a25df6a2010e1fb2c6f30a'
+
+[exercises."part05-Part05_01.OneMinute"]
+id = 83247
+checksum = '94f9f6f5f95f182d42e32df8ce7f6bff'
+
+[exercises."part05-Part05_02.Book"]
+id = 83248
+checksum = '2e5a6deee308c45399babfe011d78526'
+
+[exercises."part05-Part05_03.Cube"]
+id = 83249
+checksum = '39301222a74dbb5764a1358db3d3d11c'
+
+[exercises."part05-Part05_04.FitByte"]
+id = 83250
+checksum = 'fbb56cf0ec0351d5ec8a08294cf928d1'
