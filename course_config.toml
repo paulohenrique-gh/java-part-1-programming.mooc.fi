@@ -482,3 +482,31 @@ checksum = '39301222a74dbb5764a1358db3d3d11c'
 [exercises."part05-Part05_04.FitByte"]
 id = 83250
 checksum = 'fbb56cf0ec0351d5ec8a08294cf928d1'
+
+[exercises."part05-Part05_05.ConstructorOverload"]
+id = 83251
+checksum = 'f885e60f8af604d916e38a517fbb5c55'
+
+[exercises."part05-Part05_06.OverloadedCounter"]
+id = 83252
+checksum = '63decb83af9b37fb7c49673311093611'
+
+[exercises."part05-Part05_07.NullPointerException"]
+id = 83253
+checksum = 'cb7213493c945a6f297c59b8be1c5ca2'
+
+[exercises."part05-Part05_08.BiggestPetShop"]
+id = 83254
+checksum = '0e95c19680b23ba0ba2ba7d46ec9d6f0'
+
+[exercises."part05-Part05_09.HealthStation"]
+id = 83255
+checksum = 'b7aed673262e6dc8c9ddedbd538b20b3'
+
+[exercises."part05-Part05_10.CardPayments"]
+id = 83256
+checksum = '68d091d8cb3f6921959fd5d739a1c9cd'
+
+[exercises."part05-Part05_11.ComparingApartments"]
+id = 83257
+checksum = 'cdfe9bad24dbe62efa9086b98d528b3a'
