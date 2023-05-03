@@ -510,3 +510,27 @@ checksum = '68d091d8cb3f6921959fd5d739a1c9cd'
 [exercises."part05-Part05_11.ComparingApartments"]
 id = 83257
 checksum = 'cdfe9bad24dbe62efa9086b98d528b3a'
+
+[exercises."part05-Part05_12.Song"]
+id = 83258
+checksum = '3ebd5f45877b5762461671048dba87e0'
+
+[exercises."part05-Part05_13.IdenticalTwins"]
+id = 83259
+checksum = '4f9e83c96d69ba2e4cdc6793e3418dde'
+
+[exercises."part05-Part05_14.Books"]
+id = 83260
+checksum = '0334a6fe17e8ab42b896f13f34fc94e8'
+
+[exercises."part05-Part05_15.Archive"]
+id = 83261
+checksum = '4eea53c790fbdd31271878dc7f96efdb'
+
+[exercises."part05-Part05_16.DatingApp"]
+id = 83262
+checksum = '73bfeac14089b93fcf99f679d97488c7'
+
+[exercises."part05-Part05_17.Money"]
+id = 83263
+checksum = '2d8c6850b41355d39e99ad7a542f6e91'
