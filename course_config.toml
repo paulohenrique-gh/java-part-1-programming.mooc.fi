@@ -534,3 +534,23 @@ checksum = '73bfeac14089b93fcf99f679d97488c7'
 [exercises."part05-Part05_17.Money"]
 id = 83263
 checksum = '2d8c6850b41355d39e99ad7a542f6e91'
+
+[exercises."part06-Part06_01.Menu"]
+id = 83264
+checksum = '39d743066316a4bc5422bfe98abf20d4'
+
+[exercises."part06-Part06_02.Stack"]
+id = 83265
+checksum = 'b5691b769ae7e26bac109fb916c17007'
+
+[exercises."part06-Part06_03.MessagingService"]
+id = 83266
+checksum = 'a93f282618bf687fc57087e920aabc58'
+
+[exercises."part06-Part06_04.PrintingACollection"]
+id = 83267
+checksum = 'b15fb0429a60bb1261119f254088d650'
+
+[exercises."part06-Part06_05.SantasWorkshop"]
+id = 83268
+checksum = '4f0ef951bef571332945e1aa2f104c8b'
