@@ -554,3 +554,15 @@ checksum = 'b15fb0429a60bb1261119f254088d650'
 [exercises."part06-Part06_05.SantasWorkshop"]
 id = 83268
 checksum = '4f0ef951bef571332945e1aa2f104c8b'
+
+[exercises."part06-Part06_06.LongestInCollection"]
+id = 83269
+checksum = '2f7e7a5447e43b1824cde500894bef5b'
+
+[exercises."part06-Part06_07.HeightOrder"]
+id = 83270
+checksum = '5138219805be1da541cb1ccf29cd2672'
+
+[exercises."part06-Part06_08.CargoHold"]
+id = 83271
+checksum = '5a9cebec765a7debd33e5ddc63f8ba69'
