@@ -610,3 +610,7 @@ checksum = '8462a4d763de9e720b121a01a368a898'
 [exercises."part07-Part07_06.GradeStatistics"]
 id = 83282
 checksum = '067bcfc23648d0cc80dc31ebe82adc12'
+
+[exercises."part07-Part07_07.RecipeSearch"]
+id = 83283
+checksum = '56d605c258125d134498f48a9c497b34'
