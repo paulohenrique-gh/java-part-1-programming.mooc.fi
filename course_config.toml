@@ -614,3 +614,7 @@ checksum = '067bcfc23648d0cc80dc31ebe82adc12'
 [exercises."part07-Part07_07.RecipeSearch"]
 id = 83283
 checksum = '56d605c258125d134498f48a9c497b34'
+
+[exercises."part07-Part07_08.BigYear"]
+id = 83284
+checksum = '57ec0d538cef8f6d544a70e0e6c5b1b8'
